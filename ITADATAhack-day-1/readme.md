@@ -2,7 +2,7 @@
 
 ## Model - Legal Bert
 
-### Score - 0.939886271324127
+### F1 Micro Score - 0.939886271324127
 ### Place - 12
 
 
