@@ -3,7 +3,7 @@
 ## Model - Legal Bert
 
 ### F1 Micro Score - 0.939886271324127
-### Place - 12
+### Place - 12 / 31
 
 
 # About the problem 
