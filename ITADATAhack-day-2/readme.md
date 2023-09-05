@@ -1,7 +1,7 @@
 # The solution of the second day of competition 
 
 ## Model - Legal Bert
-### F1 mcicro score - 0.905470635559131
+### F1 micro score - 0.905470635559131
 ### Rank - 12 / 31
 
 # About the problem 
